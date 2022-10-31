@@ -377,6 +377,10 @@ header{
     border-radius: 0.5rem;
 }
 
+.copyright{
+    text-align: center;
+}
+
 /* RESPONSIVE */
 @media (max-width: 991px){
     header {
